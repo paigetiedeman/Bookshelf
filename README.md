@@ -5,9 +5,9 @@
 [![Language][languageC-shield]][languageC-url]
 [![MIT License][license-shield]][license-url]
 
-# Project Name
+# Page Turner Bookshelf
 
-#### This is a C# web application ...
+#### This is a C# web application .to store books.
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-  <!-- <img src="ProjectName/wwwroot/img/RelationshipTable.png"> -->
+  <!-- <img src="Bookshelf/wwwroot/img/RelationshipTable.png"> -->
  
 </div>
 
@@ -43,7 +43,7 @@ This web application ...
 * _Navigate into the top level directory_
 * _Open in your code editor_
 * _Commit and push your .gitignore file to your repo_
-* _Add the file ProjectName/ProjectName/appsettings.json and insert the following:_
+* _Add the file Bookshelf/Bookshelf/appsettings.json and insert the following:_
 ```
 {
   "ConnectionStrings": {
@@ -58,7 +58,7 @@ This web application ...
 
 
 ## Steps To Use
-* _In your terminal navigate into ProjectName.Solution/ProjectName_
+* _In your terminal navigate into Bookshelf/Bookshelf_
 * _If Migrations folder is not present run `$ dotnet ef migrations add Initial` to add Migrations folder_
 * _Then run `$ dotnet ef database update` to create the schema_
 * _Run `$ dotnet build` to build the site_
